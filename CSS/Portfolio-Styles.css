@@ -1,0 +1,281 @@
+body {
+  background-color: #ecf0f1;
+  margin: 0 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  color: #34495e;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  color: #34495e;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #34495e;
+}
+
+h4 {
+  font-family: 'Satisfy', cursive;
+  color: #34495e;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #34495e;
+  line-height: 2;
+  letter-spacing: 1px
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #34495e;
+}
+li {
+  width: 150px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  line-height: 2;
+}
+
+
+.studio-photos {
+  border: 5px solid;
+  width: 200px;
+  margin: 0 auto 20px;
+  border-color: #3498db;
+  position: relative;
+  left: 120px;
+  top: 320px;
+  box-shadow: 0 0 20px 0 #f8c957;
+}
+
+.prices {
+  margin: 0 auto;
+}
+
+.sp {
+  border-bottom: 5px solid;
+  border-color: #3498db;
+  margin: 0;
+  padding: 5px;
+}
+.op {
+  border-bottom: 5px solid;
+  border-color: #3498db;
+  margin: 0;
+  padding: 5px;
+}
+
+.optxt {
+  padding-bottom: 64px;
+}
+
+.outdoor-photos {
+  border: 5px solid;
+  width: 200px;
+  margin: 0 auto 20px;
+  border-color: #3498db;
+  position: relative;
+  right: 120px;
+  bottom: 123px;
+  box-shadow: 0 0 20px 0 #f8c957;
+}
+
+.p99 {
+  font-size: 2em;
+}
+.p79 {
+  font-size: 2em;
+}
+
+.headder {
+  background-color: #3498db;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  right: 0;
+}
+
+.headder2 {
+  background-color: #3498db;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  right: 0;
+}
+
+/*
+hr {
+  border: dotted #f8c957 10px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+  box-shadow: 5px -2px 20px 1px #34495e;
+} */
+.top-container {
+  margin: 0 auto;
+  padding: 100px 0 100px;
+}
+
+.welcome-header {
+  background-color: #3498db;
+  width: 500px;
+  margin: 100px auto;
+  padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 2px -2px 20px 0 #34495e;
+}
+
+.wlcm {
+  width: 100%;
+  margin: auto;
+  font-size: 112px;
+  height: 120px;
+}
+
+.t-m {
+  width: 75%;
+  margin: 0 auto 0;
+  font-size: 2rem;
+}
+
+.p-p {
+  width: 75%;
+  margin: 0 auto 0;
+  font-size: 4rem;
+}
+
+.mp {
+  font-size: 2rem;
+}
+
+.my-passion {
+  width: 55%;
+  margin: 0 auto 0;
+}
+
+.button {
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 15px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: .3s;
+  padding: 5px;
+
+}
+
+.button:hover {
+  color: #f8c957;
+}
+
+.btn7 {
+  margin-right: 10px;
+}
+
+.btn8 {
+  margin-right: 10px;
+}
+
+.btn10 {
+  margin-right: 10px;
+}
+
+.cover-photo {
+  margin: 100px auto;
+}
+
+.photo {
+  width: 800px;
+  border-style: solid;
+  border-color: #f8c957;
+  border-radius: 10px;
+  margin: 100px auto;
+  box-shadow: 5px 5px 20px 5px #3498db;
+}
+
+
+.p5 {
+  width: 70%
+}
+
+.p2 {
+  margin: 50px 50px;
+}
+.p3 {
+  margin: 50px 50px;
+}
+.p4 {
+  margin: 50px 50px;
+}
+
+.bottom-container {
+  background-color: #3498db;
+  padding: 20px 20px;
+  box-shadow: 0 -3px 20px 0 #34495e;
+  margin-top: 200px;
+}
+
+.dotted-box {
+  margin-bottom: 100px;
+}
+
+.dotted-box-bottom {
+  margin: 100px auto 0;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  margin: 0 auto;
+  border: solid;
+  background-color: #f8c957;
+  border-radius: 50%;
+  border-color: #f8c957;
+}
+
+.d1 {
+  position: relative;
+  top: 20px;
+  right: 70px;
+}
+
+.d2 {
+  position: relative;
+  top: 7.5px;
+  right: 25px;
+}
+
+.d3 {
+  position: relative;
+  top: -5.5px;
+  left: 25px;
+}
+
+.d4 {
+  position: relative;
+  top: -18px;
+  left: 70px;
+}
+
+.copywrite {
+  margin: 20px auto 0;
+}
+
+.hand {
+  margin: 0 auto;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
